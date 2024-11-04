@@ -1268,12 +1268,12 @@ audio {
 	margin-top: 50px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 100px;
 	display: none;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
-	font-size: 30px;
+	font-size: 25px;
 	text-transform: uppercase;
 	color: #C4515C;
 	text-shadow: 2px 2px 2px #FFF;
